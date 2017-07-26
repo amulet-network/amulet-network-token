@@ -7,7 +7,7 @@ import "./MiniMeToken.sol";
 */
 
 contract AML is MiniMeToken {
-    // @dev ANT constructor just parametrizes the MiniMeToken constructor
+    // @dev AML constructor just parametrizes the MiniMeToken constructor
     function AML(
       address _tokenFactory
     ) MiniMeToken(
